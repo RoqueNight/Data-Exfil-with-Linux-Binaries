@@ -2,7 +2,8 @@
 Data exfiltration by abusing built in linux binaries
 
 // Replace 192.168.10.10 with your IP
-// replace /etc/passwd with the file you want to exfiltrate
+
+// Replace /etc/passwd with the file you want to exfiltrate
 
 Victim
 ```
